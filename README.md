@@ -10,6 +10,8 @@ As the Earth's greatest fighter pilot, and last hope, you must lead a squadron o
 Quickly, Captain, to your ship!
 ```
 
+![Cover Art](https://raw.githubusercontent.com/nickbild/nickbild79_firebase/master/public/img/xenos2.png)
+
 ## Further Information
 
 https://nickbild79.firebaseapp.com/#!/xenos
