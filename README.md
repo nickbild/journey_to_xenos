@@ -12,6 +12,8 @@ Quickly, Captain, to your ship!
 
 ![Cover Art](https://raw.githubusercontent.com/nickbild/journey_to_xenos/master/xenos2.png)
 
+![Screenshot](https://raw.githubusercontent.com/nickbild/journey_to_xenos/master/jxenos2_12.png)
+
 ## Further Information
 
 https://nickbild79.firebaseapp.com/#!/xenos
